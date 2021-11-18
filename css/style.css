@@ -1,0 +1,36 @@
+body{
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+}
+
+.header { 
+
+background: rgb(77, 55, 87);
+}
+
+.header .headerOne{  
+    height: 280px;
+    background: url("/resource/imagesMain.jpg") no-repeat;
+    background-size: auto;
+    background-position: center;
+    text-align: center;
+    font-size: 30px;
+    color: rgb(208, 197, 226);
+    text-shadow: #fff -1px -1px 0, 
+    #333 1px 1px 0;
+    }
+
+.Tx{
+    margin-top: 20%;
+}
+
+.main{
+    height: 600px;
+    background: rgb(77, 55, 87);
+    font-size: 30px;
+}
+
+.footer{
+background: black;
+color: white;
+}
